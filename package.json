@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/halbertstone/testc",
   "dependencies": {
-    "hapi": "^8.1.0"
+    "hapi": "^8.1.0",
+    "hapi-mongodb": "^2.3.0"
   }
 }
